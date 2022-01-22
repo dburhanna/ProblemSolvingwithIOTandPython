@@ -1,4 +1,5 @@
 """Sensor demo for Adafruit Feather Sense. Prints data from each of the sensors."""
+# adding important info here
 import time
 import array
 import math
