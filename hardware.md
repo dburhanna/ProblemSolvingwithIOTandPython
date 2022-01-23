@@ -1,16 +1,33 @@
-# Hardware
+# The T in IoT
 
-The **T** in IoT is **Things** and refers to devices that interact with the world around us. Each project is based on real-world hardware available to students and hobbyists. We have two choices of IoT hardware to use depending on personal preference, programming language knowledge or preferences, learning goals and availability. We have also provided a 'virtual hardware' version for those who don't have access to hardware, or want to learn more before committing to a purchase.
+To truly learn about IoT students should use a real "thing", a real device that interacts with the world around them. Beginning with Unit 3, every IoT lab in 
+my curriculum is based on real-world hardware available to the school or students from Adafruit Industries. 
 
-> 💁 You don't need to purchase any IoT hardware to complete the assignments. You can do everything using virtual IoT hardware.
+The physical hardware chosen from Adafruit is the **Adafruit Feather Sense** plus the **Adafruit AirLift FeatherWing**.  The Feather Sense board is great 
+because it is completely packed with sensors for the students to use. During this course, students will not have to worry about wiring diagrams and connecting 
+external sensors.  The Feather Sense has everything built right in.  The Feather Sense combined with the AirLift provide the student the ability to:
 
-The physical hardware choices are Arduino, or Raspberry Pi. Each platform has its own upsides and downsides, and these are all covered in one of the initial lessons. If you haven't already decided on a hardware platform, you can review [lesson two of the first project](./1-getting-started/lessons/2-deeper-dive/README.md) to decide which hardware platform you are most interested in learning.
+- connect via Bluetooth Low Energy (BLE)
+- connect via WiFi
+- sense temperature
+- sense barometric pressure/altitude
+- sense humidity
+- sense sound
+- sense light, proximity, color and gestures
+- sense 9-DoF motion with an acceleration/gyroscopic + a magnetometer
 
-The specific hardware was chosen to reduce the complexity of the lessons and assignments. Although other hardware may work, we cannot guarantee all the assignments will be supported on your device without additional hardware. For example, a lot of Arduino devices do not have WiFi, which is needed to connect to the cloud - the Wio terminal was chosen because it has WiFi built in.
+All of this for about $50! Do not forget to check into Adafruits educational discounts as well.
 
-You will also need a few non-technical items, such as soil or a pot plant, and fruit or vegetables.
+## Check out current prices at Adafruit 
 
-## Buy the kits
+**[Adafruit Feather Sense](https://www.adafruit.com/product/4516)**
+[![Feather Sense Image](https://cdn-shop.adafruit.com/970x728/4516-08.jpg)](https://www.adafruit.com/product/4516)
+
+
+
+
+
+## 
 
 ![The Seeed studios logo](./images/seeed-logo.png)
 
