@@ -24,23 +24,28 @@ and videos to help teach the teacher.
 While I do believe teaching a class of students in a group setting is advantageous since they will be able to bounce ideas off each other and will 
 generally have more fun, this curriculum can also be used by the motivated individual student.
 
+## Prerequisites - Python?
 
+This curriculum was originally designed to be a second semester continuation to a first semester introduction to programming with Python.  I wanted 
+to add something hands-on and real-world to better engage the class.  Python is one of the most popular programming languages and definitely has 
+easier to understand syntax than other languages typically used for IoT such as Arduino, C or C++.  Even if your students do not have prior 
+experience with Python, the course contains a unit of Python review 
+as the development environment is introduced to the students.  You can choose to spend as much or as little time as necessary in this unit.  There 
+are many freely available Python curriculums available already for the teacher that plans on using this course as it was originally designed. 
 
+## Course Structure
 
-The curriculum is broken down into units and lessons.  Every lesson 
-
-
-This curriculum was designed to be a one semester course as a follow up to a semester long introduction to programming in Python.  The course contains a unit of Python review as the development environment is introduced to the students.
-
-
-excited to present a 15-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+The Introduction to IoT curriculum is broken down into five units designed to be taught over a semester lasting 15-17 weeks.  Each unit is made up of
+multiple lessons with labs. Hands-on, experiential learning has been proven to help students understand and remember.  During this course the students 
+will work, most likely in groups, to complete a series of IoT projects which expose them to IoT from the most basic connections up to cloud based 
+analytics.
 
 The projects cover the journey of food from farm to table. This includes farming, logistics, manufacturing, retail and consumer - all popular industry areas for IoT devices.
 
 ![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](sketchnotes/Roadmap.jpg)
 
 
-
+## 
 
 **Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
