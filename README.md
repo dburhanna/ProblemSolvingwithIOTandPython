@@ -14,7 +14,7 @@ The course will take the student on an educational journey from the basics of th
 
 This curriculum was specifically built with the new or inexperienced teacher in mind.  I have tried to provide a complete package of lessons, labs,
 and assessments for a teacher to use and modify.  Each lesson, especially the hardware specific lessons, will come with extra support documentation 
-and videos to help teach the teacher.  
+and videos to help **teach the teacher**.  
 
 While I do believe teaching a class of students in a group setting is advantageous since they will be able to bounce ideas off each other and will 
 generally have more fun, this curriculum can also be used by the motivated individual student.
