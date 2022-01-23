@@ -31,26 +31,17 @@ to add something hands-on and real-world to better engage the class.  Python is 
 easier to understand syntax than other languages typically used for IoT such as Arduino, C or C++.  Even if your students do not have prior 
 experience with Python, the course contains a unit of Python review 
 as the development environment is introduced to the students.  You can choose to spend as much or as little time as necessary in this unit.  There 
-are many freely available Python curriculums available already for the teacher that plans on using this course as it was originally designed. 
+are many Python curriculums available already for the teacher that plans on using this course as it was originally designed. 
 
-## Course Structure
+## Course Structure and Pedagogy
 
-The Introduction to IoT curriculum is broken down into five units designed to be taught over a semester lasting 15-17 weeks.  Each unit is made up of
-multiple lessons with labs. Hands-on, experiential learning has been proven to help students understand and remember.  During this course the students 
-will work, most likely in groups, to complete a series of IoT projects which expose them to IoT from the most basic connections up to cloud based 
-analytics.
+The Introduction to IoT curriculum is broken down into XXX units designed to be taught over an entire 15-17 week semester.  Each unit is made up of
+multiple lessons with labs. The labs are key to providing the hands-on, experiential learning which has been proven to help students understand and
+remember. During this course the students will work, most likely in groups, to complete a series of IoT labs which expose them to IoT from the basic 
+connections up to cloud based analytics.  Another key to the curriculum is frequent small assessments.  Each unit has multiple quick quizzes to test the 
+students on the most important ideas being presented. 
 
-The projects cover the journey of food from farm to table. This includes farming, logistics, manufacturing, retail and consumer - all popular industry areas for IoT devices.
-
-![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](sketchnotes/Roadmap.jpg)
-
-
-## 
-
-**Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
-
-> 🎥 Click the image above for a video about the project!
-> **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
+**Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
 > **Students**, to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz, then reading the lecture and completing the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/users/jimbobbennett/collections/ke2ehd351jopwr?WT.mc_id=academic-17441-jabenn).
 For a video overview of this course, check out this video:
 
