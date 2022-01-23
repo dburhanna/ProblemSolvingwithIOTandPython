@@ -37,7 +37,7 @@ My goal was to make a curriculum with a very low overhead. I targeted cost effec
 needing to request thousands of dollars of equipment or licensing fees.
 
 ### Software - Development Environment
-The [Mu editor]https://codewith.mu/en/ was chosen as the intergrated development environment for the course.  Mu is free to download and can be used on mulitple platforms.
+The [Mu editor](https://codewith.mu/en/) was chosen as the intergrated development environment for the course.  Mu is free to download and can be used on multiple platforms.
 
 ### Python
 This curriculum was originally designed to be a second semester continuation to a first semester introduction to programming with Python.  I wanted 
