@@ -20,9 +20,19 @@
 # An Introduction to Problem Solving with IoT and Python
 ## A Curriculum
 
-This course was designed to be a one semester course as a followup to a semester of programming in Python.  The course will take the student on an educational journey from the basics of the Internet of Things to creating their own working IoT devices.  
+The course will take the student on an educational journey from the basics of the Internet of Things to programming their own working IoT devices.  
+This curriculum was specifically built with the new or inexperienced teacher in mind.  I have tried to provide a complete package of lessons, labs, and assessments for a teacher to use and modify.  Each lesson, especially the hardware specific lessons, will come with extra support documentation and videos to help teach the teacher.  
 
-The course is broken into five units as
+While I do believe teaching a class of students in a group setting is advantageous since they will be able to bounce ideas off each other and will generally have more fun, this curriculum can also be used by the motivated individual student.
+
+
+
+
+The curriculum is broken down into units and lessons.  Every lesson 
+
+
+This curriculum was designed to be a one semester course as a follow up to a semester long inroduction to programming in Python.  The course contains a unit of Python review as the development environment is introduced to the students.
+
 
 excited to present a 15-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
