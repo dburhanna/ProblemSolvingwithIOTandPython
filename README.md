@@ -34,22 +34,24 @@ students on the most important ideas being presented.
 
 ## Prerequisites 
 My goal was to make a curriculum with a very low overhead. I targeted cost effective solutions so teachers everywhere could hopefully benefit without
-needing to request thousands of dollars of equipment or licensing fees.
+needing to request thousands of dollars for equipment or licensing fees.
 
 ### Software - Development Environment
 The [Mu editor](https://codewith.mu/en/) was chosen as the intergrated development environment for the course.  Mu is free to download and can be used on multiple platforms.
 
-### Python
-This curriculum was originally designed to be a second semester continuation to a first semester introduction to programming with Python.  I wanted 
-to add something hands-on and real-world to better engage the class.  Python is one of the most popular programming languages and definitely has 
-easier to understand syntax than other languages typically used for IoT such as Arduino, C or C++.  Even if your students do not have prior 
-experience with Python, the course contains a unit of Python review 
-as the development environment is introduced to the students.  You can choose to spend as much or as little time as necessary in this unit.  There 
-are many Python curriculums available already for the teacher that plans on using this course as it was originally designed. 
+### Software - Python
+This curriculum was originally designed to be a second semester continuation to a first semester introduction to programming with
+[Python](https://www.python.org/).  I wanted to add something hands-on and real-world to better engage the class.  Python is one of the most popular 
+programming languages and definitely has easier to understand syntax than other languages typically used for IoT such as Arduino, C or C++.  Even if your 
+students do not have prior experience with Python, the course contains a unit of Python review as the development environment is introduced to the 
+students.  You can choose to spend as much or as little time as necessary in this unit.  There are many Python curriculums available already for the 
+teacher that plans on using this course as it was originally designed. 
 
-## Prerequisites - Hardware
+### Hardware 
 
 We have two choices of IoT hardware to use for the projects depending on personal preference, programming language knowledge or preferences, learning goals and availability. We have also provided a 'virtual hardware' version for those who don't have access to hardware, or want to learn more before committing to a purchase. You can read more and find a 'shopping list' on the [hardware page](./hardware.md), including links to buy complete kits from our friends at Seeed Studio.
+
+
 **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
 > **Students**, to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz, then reading the lecture and completing the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/users/jimbobbennett/collections/ke2ehd351jopwr?WT.mc_id=academic-17441-jabenn).
 For a video overview of this course, check out this video:
