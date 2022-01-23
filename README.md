@@ -52,34 +52,18 @@ a variant of Python.  I know much of this "hardware" stuff may be completely for
 comfortable working with microcontrollers and helping your students understand the IoT concepts.  You can read more about the hardware chosen and check on 
 current prices on the [hardware page](./hardware.md)
 
-
-We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a plant monitoring and watering system, a vehicle tracker, a smart factory setup to track and check food, and a voice-controlled cooking timer, and will have learned the basics of the Internet of Things including how to write device code, connect to the cloud, analyze telemetry and run AI on the edge.
-
-By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented.
-
-In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12 week cycle.
-
-Each project is be based around real-world hardware available to students and hobbyists. Each project looks into the specific project domain, providing relevant background knowledge. To be a successful developer it helps to understand the domain in which you are solving problems, providing this background knowledge allows students to think about their IoT solutions and learnings in the context of the kind of real-world problem that they might be asked to solve as an IoT developer. Students learn the 'why' of the solutions they are building, and get an appreciation of the end user.
-
-## Hardware
-
-We have two choices of IoT hardware to use for the projects depending on personal preference, programming language knowledge or preferences, learning goals and availability. We have also provided a 'virtual hardware' version for those who don't have access to hardware, or want to learn more before committing to a purchase. You can read more and find a 'shopping list' on the [hardware page](./hardware.md), including links to buy complete kits from our friends at Seeed Studio.
-
-> 💁 Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), and [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
 ## Each lesson includes:
 
-- sketchnote
-- optional supplemental video
-- pre-lesson warmup quiz
-- written lesson
-- for project-based lessons, step-by-step guides on how to build the project
+- clearly defined learning objectives
+- a written lesson plan
+- for lab-based lessons, a step-by-step lab guide 
 - knowledge checks
-- a challenge
-- supplemental reading
+- a lesson challenge
+- supplemental reading and video links
 - assignment
-- post-lesson quiz
+- a quick quiz
 
-> **A note about quizzes**: All quizzes are contained [in this app](https://brave-island-0b7c7f50f.azurestaticapps.net), for 48 total quizzes of three questions each. They are linked from within the lessons but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
+
 ## Lessons
 
 |       |              Project Name              |                       Concepts Taught                       | Learning Objectives                                                                                                                                                 |                                                        Linked Lesson                                                         |
