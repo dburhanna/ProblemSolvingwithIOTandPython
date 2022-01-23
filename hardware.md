@@ -31,6 +31,12 @@ external sensors.  The Feather Sense has everything built right in.  The Feather
 
 ## Optional hardware
 
+Adafruit "Feather" devices are all designed with the same compact form factor.  This allows devices to be stacked on top of one another to expand the 
+users capabilities.  I see this as a big benefit to the student or designer who wants to go even further with their IoT journey. The Adafruit web page probably says it best here: [Feather](https://www.adafruit.com/category/943) 
+
+Here are some other *FeatherWings* that might be fun to have around!
+
+- 
 <!--
 The lessons on automated watering work using a relay. As an option, you can connect this relay to a water pump powered by USB using the hardware listed below.
 
