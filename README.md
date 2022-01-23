@@ -21,6 +21,7 @@
 ## A Curriculum
 
 The course will take the student on an educational journey from the basics of the Internet of Things to programming their own working IoT devices.  
+
 This curriculum was specifically built with the new or inexperienced teacher in mind.  I have tried to provide a complete package of lessons, labs,
 and assessments for a teacher to use and modify.  Each lesson, especially the hardware specific lessons, will come with extra support documentation 
 and videos to help teach the teacher.  
