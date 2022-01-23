@@ -44,7 +44,7 @@ teacher that plans on using this course as it was originally designed.
 
 ### Hardware 
 
-We have two choices of IoT hardware to use for the projects depending on personal preference, programming language knowledge or preferences, learning goals and availability. We have also provided a 'virtual hardware' version for those who don't have access to hardware, or want to learn more before committing to a purchase. You can read more and find a 'shopping list' on the [hardware page](./hardware.md), including links to buy complete kits from our friends at Seeed Studio.
+Choosing the "thing" you want to use for IoT is not always as easy task since there are many possibilities today.  I looked for a low-cost "thing' that could be programmed with Python. [Adafruit Industries](adafruit.com)
 
 
 **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
