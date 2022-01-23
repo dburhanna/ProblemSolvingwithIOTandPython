@@ -46,7 +46,7 @@ teacher that plans on using this course as it was originally designed.
 
 When it comes to adding some real-world experiences for your students, you need to use real-world devices.  This can be an intimidating and time 
 consuming process even for an experienced engineer.  Just choosing the "thing" you want to use for IoT is not an easy task since there are many 
-possibilities today.  I looked for a low-cost "thing' that could be programmed with Python. Thankfully, [Adafruit Industries](https://www.adafruit.com/) 
+possibilities today.  **I looked for a low-cost "thing' that could be programmed with Python.** Thankfully, [Adafruit Industries](https://www.adafruit.com/) 
 has been leading the way by developing small, low-cost microcontroller boards that can be programmed with [CircuitPython](https://circuitpython.org/), 
 a variant of Python.  I know much of this "hardware" stuff may be completely foreign to many teachers.  My curriculum should provide all you need to feel 
 comfortable working with microcontrollers and helping your students understand the IoT concepts.
