@@ -1,4 +1,5 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/IoT-For-Beginners.svg)](https://github.com/dburhanna/THESIS_IOT/main/LICENSE)
+
+[![GitHub license](https://img.shields.io/github/license/microsoft/IoT-For-Beginners.svg)](LICENSE)
 <!-- [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/pulls/)
@@ -15,7 +16,8 @@
 [![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
 -->
 
-# IoT for Beginners - A Curriculum
+# An Introduction to Problem Solving with IoT and Python
+## A Curriculum
 
 Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
@@ -26,11 +28,7 @@ The projects cover the journey of food from farm to table. This includes farming
 > Sketchnote by [Nitya Narasimhan](https://github.com/nitya). Click the image for a larger version.
 **Hearty thanks to our authors [Jen Fox](https://github.com/jenfoxbot), [Jen Looper](https://github.com/jlooper), [Jim Bennett](https://github.com/jimbobbennett), and our sketchnote artist [Nitya Narasimhan](https://github.com/nitya).**
 
-**Thanks as well to our team of [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-17441-jabenn) who have been reviewing and translating this curriculum - [Aditya Garg](https://github.com/AdityaGarg00), [Anurag Sharma](https://github.com/Anurag-0-1-A), [Arpita Das](https://github.com/Arpiiitaaa), [Aryan Jain](https://www.linkedin.com/in/aryan-jain-47a4a1145/), [Bhavesh Suneja](https://github.com/EliteWarrior315), [Faith Hunja](https://faithhunja.github.io/), [Lateefah Bello](https://www.linkedin.com/in/lateefah-bello/), [Manvi Jha](https://github.com/Severus-Matthew), [Mireille Tan](https://www.linkedin.com/in/mireille-tan-a4834819a/), [Mohammad Iftekher (Iftu) Ebne Jalal](https://github.com/Iftu119), [Mohammad Zulfikar](https://github.com/mohzulfikar), [Priyanshu Srivastav](https://www.linkedin.com/in/priyanshu-srivastav-b067241ba), [Thanmai Gowducheruvu](https://github.com/innovation-platform), and [Zina Kamel](https://www.linkedin.com/in/zina-kamel/).**
 
-Meet the team!
-
-[![Promo video](./images/IOT.gif)](https://youtu.be/-wippUJRi5k)
 
 **Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
