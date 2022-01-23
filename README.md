@@ -1,7 +1,7 @@
 
 <!-- license image not correct......... -->
 [![GitHub license](https://img.shields.io/github/license/microsoft/IoT-For-Beginners.svg)](LICENSE)
-
+https://img.shields.io/github/license/dburhanna/THESIS_IOT
 <!-- [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/pulls/)
