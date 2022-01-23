@@ -1,3 +1,9 @@
+﻿<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 <!-- license image not correct......... -->
 [![GitHub license](https://img.shields.io/github/license/microsoft/IoT-For-Beginners.svg)](LICENSE)
 
@@ -9,12 +15,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/microsoft/IoT-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/IoT-For-Beginners/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/IoT-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/IoT-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/IoT-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/IoT-For-Beginners/stargazers/)
-
-[![Bengali](https://img.shields.io/badge/-Bengali-blue)](translations/README.bn.md)
-[![Chinese](https://img.shields.io/badge/-Chinese-yellow)](translations/README.zh-cn.md)
-[![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](translations/README.tr.md)
-[![French](https://img.shields.io/badge/-French-purple)](translations/README.fr.md)
-[![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
 -->
 
 # An Introduction to Problem Solving with IoT and Python
@@ -35,7 +35,7 @@ generally have more fun, this curriculum can also be used by the motivated indiv
 The curriculum is broken down into units and lessons.  Every lesson 
 
 
-This curriculum was designed to be a one semester course as a follow up to a semester long inroduction to programming in Python.  The course contains a unit of Python review as the development environment is introduced to the students.
+This curriculum was designed to be a one semester course as a follow up to a semester long introduction to programming in Python.  The course contains a unit of Python review as the development environment is introduced to the students.
 
 
 excited to present a 15-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
@@ -44,8 +44,6 @@ The projects cover the journey of food from farm to table. This includes farming
 
 ![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](sketchnotes/Roadmap.jpg)
 
-> Sketchnote by [Nitya Narasimhan](https://github.com/nitya). Click the image for a larger version.
-**Hearty thanks to our authors [Jen Fox](https://github.com/jenfoxbot), [Jen Looper](https://github.com/jlooper), [Jim Bennett](https://github.com/jimbobbennett), and our sketchnote artist [Nitya Narasimhan](https://github.com/nitya).**
 
 
 
