@@ -16,7 +16,9 @@ external sensors.  The Feather Sense has everything built right in.  The Feather
 - sense light, proximity, color and gestures
 - sense 9-DoF motion with an acceleration/gyroscopic + a magnetometer
 
-All of this for about $50! Do not forget to check into Adafruits educational discounts as well.
+**All of this for about $50!** 
+
+***Do not forget to check out Adafruit's educational discounts as well.***
 
 ## Check out current prices at Adafruit 
 
