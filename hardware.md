@@ -29,7 +29,7 @@ external sensors.  The Feather Sense has everything built right in.  The Feather
 [![AirLift Image](https://cdn-shop.adafruit.com/970x728/4264-05.jpg)](https://www.adafruit.com/product/4264)
 
 
-## Optional hardware
+## Hardware for further Exploration
 
 Adafruit "Feather" devices are all designed with the same compact form factor.  This allows devices to be stacked on top of one another to expand the 
 users capabilities.  I see this as a big benefit to the student or teacher who wants to go even further with their IoT journey. The Adafruit web page probably says it best here: [Feather](https://www.adafruit.com/category/943) 
