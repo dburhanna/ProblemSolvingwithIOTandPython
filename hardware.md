@@ -37,7 +37,7 @@ users capabilities.  I see this as a big benefit to the student or teacher who w
 Here are some other *FeatherWings* that might be fun to have around:
 
 - [Adafruit FeatherWing OLED](https://www.adafruit.com/product/4650) -Add a display for easy viewing of data
-- [Adafruit FeatherWing Doubler](https://www.adafruit.com/product/2890) -Connect Feather and FeatherWings side by side
+- [Adafruit FeatherWing Doubler](https://www.adafruit.com/product/2890) -Connect a Feather and FeatherWings side by side
 - [Adalogger FeatherWing](https://www.adafruit.com/product/2922) -Add a real time clock and microSD data storage
 - [DC Motor + Stepper FeatherWing](https://www.adafruit.com/product/2927) -Add the ability to control DC or stepper motors
 - [Adafruit Latching Mini Relay FeatherWing](https://www.adafruit.com/product/2923) -Add the ability to turn off lamps, fans and other small appliances 
