@@ -6,6 +6,8 @@
 @@ text in purple (and bold)@@
 ```
 
+<span style="color: green"> Some green text </span>
+
 <style>
 H1{color:Blue !important;}
 H2{color:DarkOrange !important;}
