@@ -1,5 +1,5 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/IoT-For-Beginners.svg)](https://github.com/dburhanna/THESIS_IOT/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/graphs/contributors/)
+[![GitHub license](https://img.shields.io/github/license/microsoft/IoT-For-Beginners.svg)](https://github.com/dburhanna/THESIS_IOT/main/LICENSE)
+<!-- [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/IoT-For-Beginners.svg)](https://GitHub.com/microsoft/IoT-For-Beginners/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -13,6 +13,7 @@
 [![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](translations/README.tr.md)
 [![French](https://img.shields.io/badge/-French-purple)](translations/README.fr.md)
 [![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
+-->
 
 # IoT for Beginners - A Curriculum
 
