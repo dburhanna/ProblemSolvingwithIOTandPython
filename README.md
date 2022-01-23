@@ -106,25 +106,7 @@ npm i
 npm run convert
 ```
 
-### Slides
+**Teachers**, I have [included some suggestions](for-teachers.md) on how to get started using the curriculum. 
 
-There are slide decks for some of the lessons in the [slides](./slides) folder.
+If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
 
-## Help Wanted!
-
-Would you like to contribute a translation? Please read our [translation guidelines](TRANSLATIONS.md) and add input [to one of the translations issues](https://github.com/microsoft/IoT-For-Beginners/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation). If you want to translate into a new language, please raise a new issue for tracking.
-
-## Other Curricula
-
-Our team produces other curricula! Check out:
-
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners)
-- [ML for Beginners](https://aka.ms/ml-beginners)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners)
-
-## Image attributions
-
-You can find all the attributions for the images used in this curriculum where required in the [Attributions](./attributions.md).
-
-**Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
-> **Students**, to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz, then reading the lecture and completing the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together.
