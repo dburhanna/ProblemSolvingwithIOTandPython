@@ -21,14 +21,14 @@ generally have more fun, this curriculum can also be used by the motivated indiv
 
 ## Course Structure and Pedagogy
 
-The Introduction to IoT curriculum is broken down into XXX units designed to be taught over an entire 15-17 week semester.  Each unit is made up of
-multiple lessons with labs. The labs are key to providing the hands-on, experiential learning which has been proven to help students understand and
+The Introduction to IoT curriculum is broken down into 7 modules designed to be taught over an entire 15-17 week semester.  Each module is made up of
+multiple lessons, many of which are labs. The labs are key to providing the hands-on, experiential learning which has been proven to help students understand and
 remember. During this course the students will work, most likely in groups, to complete a series of IoT labs which expose them to IoT from the basic 
-connections up to cloud based analytics.  Another key to the curriculum is frequent small assessments.  Each unit has multiple quick quizzes to test the 
+connections up to cloud based analytics.  Another key to the curriculum is frequent small assessments.  Each module has multiple quick quizzes to test the 
 students on the most important ideas being presented. 
 
 ## Prerequisites 
-My goal was to make a curriculum with a very low overhead. I targeted cost effective solutions so teachers everywhere could hopefully benefit without
+My goal was to make a curriculum with minimal cost. I targeted open source and cost effective solutions so teachers everywhere could hopefully benefit without
 needing to request thousands of dollars for equipment or licensing fees.
 
 ### Software - Development Environment
@@ -52,21 +52,21 @@ a variant of Python.  I know much of this "hardware" stuff may be completely for
 comfortable working with microcontrollers and helping your students understand the IoT concepts.  You can read more about the hardware chosen and check on 
 current prices on the [hardware page](./hardware.md)
 
-## Each lesson includes:
+## Each module includes:
 
 - clearly defined learning objectives
-- a written lesson plan
+- written lesson plans
 - for lab-based lessons, a step-by-step lab guide 
+- assignments
 - knowledge checks
-- a lesson challenge
 - supplemental reading and video links
-- assignment
-- a quick quiz
+- quick quizzes
+- a module challenge
 
 
 ## Lessons
 
-|       |              Project Name              |                       Concepts Taught                       | Learning Objectives                                                                                                                                                 |                                                        Linked Lesson                                                         |
+|       |              Module Name              |                       Topics                       | Learning Objectives                                                                                                                                                 |                                                        Linked Lessons                                                         |
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
 |  01   | [Getting started](./1-getting-started) |                     Introduction to IoT                     | Learn the basic principles of IoT and the basic building blocks of IoT solutions such as sensors and cloud services whilst you are setting up your first IoT device |                      [Introduction to IoT](./1-getting-started/lessons/1-introduction-to-iot/README.md)                      |
 |  02   | [Getting started](./1-getting-started) |                   A deeper dive into IoT                    | Learn more about the components of an IoT system, as well as microcontrollers and single-board computers                                                            |                        [A deeper dive into IoT](./1-getting-started/lessons/2-deeper-dive/README.md)                         |
