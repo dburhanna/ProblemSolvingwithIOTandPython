@@ -86,7 +86,7 @@ current prices on the [hardware page](./hardware.md)
 |  13  |      [5 - IoT with WiFi](./5-Unit5)       |                            WiFi                             | Learn about using your fruit quality detector from an IoT device                                                                                                    |           [Check fruit quality from an IoT device](./4-manufacturing/lessons/2-check-fruit-from-device/README.md)            |
 |  14  |      [6 - IoT Analytics](./6-Unit6)       |                            data                             | Learn about running your fruit detector on an IoT device on the edge                                                                                                |             [Run your fruit detector on the edge](./4-manufacturing/lessons/3-run-fruit-detector-edge/README.md)             |
 |  15  |    [7 - IoT Final Project](./7-Unit7)     |                        Final Project                        | Learn how to use object detection to train a stock detector to count stock in a shop                                                                                |                        [Train a stock detector](./5-retail/lessons/1-train-stock-detector/README.md)                         |
-| 
+
 ## Offline access
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
