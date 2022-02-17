@@ -12,8 +12,7 @@ from adafruit_ble.services.nordic import UARTService
 ble = BLERadio()
 while True:
     while ble.connected and any(
-        UARTService in connection for connection in ble.connections
-    ):
+        UARTService in connection for connection in ble.connections):
         for connection in ble.connections:
             if UARTService not in connection:
                 continue
