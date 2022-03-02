@@ -10,3 +10,4 @@ In this section of the curriculum, you will be introduced to the Internet of Thi
 1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
 1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
 1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+
