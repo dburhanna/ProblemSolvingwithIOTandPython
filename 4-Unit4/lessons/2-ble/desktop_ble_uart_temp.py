@@ -2,7 +2,9 @@
 # SPDX-License-Identifier: MIT
 
 """
-Used with ble_uart_echo_test.py. Transmits "echo" to the UARTService and receives it back.
+Used with code provided in lab handout for Feather sense.
+Transmits word2send to the UARTService and
+receives a response from Feather
 """
 
 import time
@@ -12,28 +14,36 @@ from adafruit_ble.advertising.standard import ProvideServicesAdvertisement
 from adafruit_ble.services.nordic import UARTService
 
 ble = BLERadio()
+
+word2send = "hello"
+receive = False
+
 while True:
     while ble.connected and any(
-        UARTService in connection for connection in ble.connections):
+        UARTService in connection for connection in ble.connections
+    ):
         for connection in ble.connections:
             if UARTService not in connection:
                 continue
-            print("sending echo")
+            command = input("Command to send Feather ('temp_on' to start data streaming) : ")
+            print("sending: "+command)
             uart = connection[UARTService]
-            uart.write(b"echo")
-            # Returns b'' if nothing was read.
-            one_byte = uart.readline()
-            if one_byte:
-                # convert bytearray to string
-                data_string = ''.join([chr(b) for b in one_byte])
-                #print(data_string,end='')
-                print("I received "+data_string,end='')
+            uart.write(command.encode("utf-8"))
+            if command == "temp_on":
+                receive = True
+            while receive:
+                response = uart.readline()
+                if response:
+                    # convert bytearray to string
+                    data_string = ''.join([chr(b) for b in response])
+                    #print(data_string,end='')
+                    print(data_string)
             print()
         time.sleep(1)
 
     print("disconnected, scanning")
     for advertisement in ble.start_scan(ProvideServicesAdvertisement, timeout=1):
-            print(advertisement.address, advertisement.complete_name)
+        #print(advertisement.address, advertisement.complete_name)
         if UARTService not in advertisement.services:
             continue
         if advertisement.complete_name == "LAB7_FEATHER":
