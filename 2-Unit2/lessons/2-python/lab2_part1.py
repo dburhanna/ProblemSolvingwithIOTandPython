@@ -1,8 +1,8 @@
 """
-Filename: 
+Filename:
 Author(s):
 Date:
-Description:  
+Description:
 """
 
 # import the python turtle graphics module
