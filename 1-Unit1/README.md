@@ -1,6 +1,7 @@
 # Unit 1
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+In this section of the curriculum, students will be introduced to the Internet of Things.  They will learn the basic concepts of IoT devices 
+and will learn about the motivations  behind choosing the Internet of Things and Python.
 
 ![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
 
