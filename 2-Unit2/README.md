@@ -1,12 +1,13 @@
 # Unit 2
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 2 provides a quick review of some key concepts of the Python programming language that I feel 
+are key to working with this curriculum.  This unit is not meant to be a complete introduction 
+programming.  It is assumed students have had at least an introductory course in programming is 
+some high-level language text-based language.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+## Unit 2 Labs
 
-## Topics
-
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+0. [Unit 2 Lab 0 - Intro to the Mu IDE and REPL](Unit2L0/)
+1. [Unit 2 Lab 1 - Python Code Challenges](Unit2L1/)
+2. [Unit 2 Lab 2 - Python Objects and Methods](Unit2L2/)
+3. [Unit 2 Lab 3 - Python File Handling](Unit2L3/)

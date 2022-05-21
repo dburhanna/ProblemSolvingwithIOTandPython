@@ -1,13 +1,25 @@
-# Getting Started with IoT
+# Unit 2 Lab 1
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 2 Lab 1 presents the students with some Python coding challenges as a refresher to the 
+six basic programming abilities:
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+1. Do math
+2. Deal with Inputs
+3. Deal with Outputs
+4. Make and use variables
+5. Make decisions (If-then conditional statements)
+6. Repetition / Loops
 
-## Topics
+Lab 1 also focuses on the common Python data structures which the students will definitely use in future labs:
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+* strings
+* lists
+* tuples
+* dictionaries
 
+## Unit 2 Lab 1 Files
+
+* Lab 1 Learning Targets
+* Lab 1 pre-lab slideshow
+* Lab 1 Hand out and solutions
+* Video - Lab 1

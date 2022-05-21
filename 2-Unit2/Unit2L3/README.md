@@ -1,12 +1,13 @@
-# Getting Started with IoT
+# Unit 2 Lab 3
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 2 Lab 3 introduces the students to Python file handling.  In Python, files are objects, 
+so this lab is a great follow-up to Lab 2.  Lab 3 should reinforce the concepts of Object Oriented 
+Programming (OOP) the students will use in many future labs.  In Lab 3 students write code to 
+store some data to a file.  This is a step towards a future custom IoT service.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+## Unit 2 Lab 3 Files
 
-## Topics
-
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+* Lab 3 Learning Targets
+* Lab 3 pre-lab slideshow
+* Lab 3 Hand out and solutions
+* Video - Lab 3
