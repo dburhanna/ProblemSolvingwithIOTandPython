@@ -1,4 +1,4 @@
-#Unit 3 Lab 5 - Explore the Adafruit Feather Sense
+# Unit 3 Lab 5 - Explore the Adafruit Feather Sense
 
 Unit 3 Lab 5 introduces the students to all the built-in sensors on the Feather Sense.  
 Students should recognize how easy CircuitPython makes it to use these "inputs". Students will 
