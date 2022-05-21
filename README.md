@@ -67,29 +67,29 @@ current prices on the [hardware page](./hardware.md)
 - Teach the teacher videos
 
 
-## Possible pacing guidelines
+## Possible pacing guidelines:
 
-| Week |                 Unit                 |             Topics             | Learning Objectives                                                              |                            Linked Lessons                            |
-|:----:|:------------------------------------:|:------------------------------:|----------------------------------------------------------------------------------|:--------------------------------------------------------------------:|
-|  1   | [1 - Introduction to IoT](./1-Unit1) |      Course Introduction       | Learn the basic principles of IoT and the basic building blocks of IoT solutions |    [Welcome to IoT](./1-Unit1/lessons/1-welcome-to-iot/README.md)    |
-|  1   | [1 - Introduction to IoT](./1-Unit1) |          What is IoT?          | Learn more about the components of an IoT system,                                | [IoT is all around us](./1-Unit1/lessons/2-iot-all-around/README.md) |
-|  1   | [1 - Introduction to IoT](./1-Unit1) |        IoT Connectivity        | Learn about sensors to                                                           |    [Even more about IoT](./1-Unit1/lessons/3-more-iot/README.md)     |
-|  2   | [1 - Introduction to IoT](./1-Unit1) |  IoT Communication Protocols   | Learn the basic principles of IoT and the basic building blocks of IoT solutions |    [Welcome to IoT](./1-Unit1/lessons/1-welcome-to-iot/README.md)    |
-|  2   | [1 - Introduction to IoT](./1-Unit1) |          IoT Services          | Learn more about the components of an IoT system,                                | [IoT is all around us](./1-Unit1/lessons/2-iot-all-around/README.md) |
-|  2   | [1 - Introduction to IoT](./1-Unit1) |          IoT Security          | Learn about sensors to                                                           |    [Even more about IoT](./1-Unit1/lessons/3-more-iot/README.md)     |
-|  3   | [2 - Python Programming](./2-Unit2)  |  Intro to the Mu IDE and REPL  | Learn about how to                                                               |           [Python 1](./2-Unit2/lessons/1-python/README.md)           |
-|  3   | [2 - Python Programming](./2-Unit2)  |     Python Code Challenges     | Learn how to predict                                                             |           [Python 2](./2-Unit2/lessons/2-python/README.md)           |
-|  4   | [2 - Python Programming](./2-Unit2)  |   Python Objects and Methods   | Learn about how to                                                               |           [Python 1](./2-Unit2/lessons/1-python/README.md)           |
-|  4   | [2 - Python Programming](./2-Unit2)  |      Python File Handling      | Learn how to predict                                                             |           [Python 2](./2-Unit2/lessons/2-python/README.md)           |
-|  5   |    [3 - CircuitPython](./3-Unit3)    |     Intro to CircuitPython     | Learn how to detect                                                              |           [Python 3](./2-Unit2/lessons/3-python/README.md)           |
-|  6   |    [3 - CircuitPython](./3-Unit3)    |   Explore the Feather Sense    | Learn about the cloud                                                            |     [CP and Feather 2](./3-Unit3/lessons/2-cp-feather/README.md)     |
-|  7   |  [4 - BLE Connectivity](./4-Unit4)   |          Intro to BLE          | Learn about security with IoT                                                    |              [BLE 1](./4-Unit4/lessons/1-ble/README.md)              |
-|  8   |  [4 - BLE Connectivity](./4-Unit4)   |        Explore more BLE        | Learn about GPS location                                                         |              [BLE 2](./4-Unit4/lessons/2-ble/README.md)              |
-|  9   |  [4 - BLE Connectivity](./4-Unit4)   |   BLE with the MQTT Gateway    | Learn how to store IoT data                                                      |              [BLE 3](./4-Unit4/lessons/3-ble/README.md)              |
-|  10  |  [5 - WiFi Connectivity](./5-Unit5)  |     Intro to WiFi and HTTP     | Learn about visualizing location                                                 |             [WiFi 1](./5-Unit5/lessons/1-wifi/README.md)             |
-|  11  |  [5 - WiFi Connectivity](./5-Unit5)  | WiFi with HTTP and Adafruit IO | Learn about geofences, and                                                       |             [WiFi 2](./5-Unit5/lessons/2-wifi/README.md)             |
-|  12  |  [5 - WiFi Connectivity](./5-Unit5)  | WiFi with MQTT and Adafruit IO | Learn about geofences, and                                                       |             [WiFi 3](./5-Unit5/lessons/3-wifi/README.md)             |
-|  13  |  [5 - WiFi Connectivity](./5-Unit5)  |   More Adafruit IO Services    | Learn about using your                                                           |             [WiFi 4](./5-Unit5/lessons/4-wifi/README.md)             |
-|  14  |  [6 - IoT Final Project](./6-Unit6)  |         Final Project          | Learn about running                                                              |       [IoT Analytics](./6-Unit6/lessons/1-analytics/README.md)       |
-|  15  |  [6 - IoT Final Project](./6-Unit6)  |         Final Project          | Learn how to use                                                                 |     [Final Project](./7-Unit7/lessons/1-final-project/README.md)     |
+| Week |                 Unit                 |             Topics             |                 Lesson Links                  |
+|:----:|:------------------------------------:|:------------------------------:|:---------------------------------------------:|
+|  1   | [1 - Introduction to IoT](./1-Unit1) |      Course Introduction       |    [Unit 1.0](./1-Unit1/Unit1.0/README.md)    |
+|  1   | [1 - Introduction to IoT](./1-Unit1) |          What is IoT?          |    [Unit 1.1](./1-Unit1/Unit1.1/README.md)    |
+|  1   | [1 - Introduction to IoT](./1-Unit1) |        IoT Connectivity        |    [Unit 1.2](./1-Unit1/Unit1.2/README.md)    |
+|  2   | [1 - Introduction to IoT](./1-Unit1) |  IoT Communication Protocols   |    [Unit 1.3](./1-Unit1/Unit1.3/README.md)    |
+|  2   | [1 - Introduction to IoT](./1-Unit1) |          IoT Services          |    [Unit 1.4](./1-Unit1/Unit1.4/README.md)    |
+|  2   | [1 - Introduction to IoT](./1-Unit1) |          IoT Security          |    [Unit 1.5](./1-Unit1/Unit1.5/README.md)    |
+|  3   | [2 - Python Programming](./2-Unit2)  |  Intro to the Mu IDE and REPL  |  [Unit 2 Lab 0](./2-Unit2/Unit2L0/README.md)  |
+|  3   | [2 - Python Programming](./2-Unit2)  |     Python Code Challenges     |  [Unit 2 Lab 1](./2-Unit2/Unit2L1/README.md)  |
+|  4   | [2 - Python Programming](./2-Unit2)  |   Python Objects and Methods   |  [Unit 2 Lab 2](./2-Unit2/Unit2L2/README.md)  |
+|  4   | [2 - Python Programming](./2-Unit2)  |      Python File Handling      |  [Unit 2 Lab 3](./2-Unit2/Unit2L3/README.md)  |
+|  5   |    [3 - CircuitPython](./3-Unit3)    |     Intro to CircuitPython     |  [Unit 3 Lab 4](./3-Unit3/Unit2L4/README.md)  |
+|  6   |    [3 - CircuitPython](./3-Unit3)    |   Explore the Feather Sense    |  [Unit 3 Lab 5](./3-Unit3/Unit2L5/README.md)  |
+|  7   |  [4 - BLE Connectivity](./4-Unit4)   |          Intro to BLE          |  [Unit 4 Lab 6](./4-Unit4/Unit4L6/README.md)  |
+|  8   |  [4 - BLE Connectivity](./4-Unit4)   |        Explore more BLE        |  [Unit 4 Lab 7](./4-Unit4/Unit4L7/README.md)  |
+|  9   |  [4 - BLE Connectivity](./4-Unit4)   |   BLE with the MQTT Gateway    |  [Unit 4 Lab 8](./4-Unit4/Unit4L8/README.md)  |
+|  10  |  [5 - WiFi Connectivity](./5-Unit5)  |     Intro to WiFi and HTTP     |  [Unit 5 Lab 9](./5-Unit5/Unit5L9/README.md)  |
+|  11  |  [5 - WiFi Connectivity](./5-Unit5)  | WiFi with HTTP and Adafruit IO | [Unit 5 Lab 10](./5-Unit5/Unit5L10/README.md) |
+|  12  |  [5 - WiFi Connectivity](./5-Unit5)  | WiFi with MQTT and Adafruit IO | [Unit 5 Lab 11](./5-Unit5/Unit5L11/README.md) |
+|  13  |  [5 - WiFi Connectivity](./5-Unit5)  |   More Adafruit IO Services    | [Unit 5 Lab 12](./5-Unit5/Unit5L12/README.md) |
+|  14  |  [6 - IoT Final Project](./6-Unit6)  |         Final Project          |  [Unit 6 Final Project](./6-Unit6/README.md)  |
+|  15  |  [6 - IoT Final Project](./6-Unit6)  |         Final Project          |  [Unit 6 Final Project](./6-Unit6/README.md)  |
 
