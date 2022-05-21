@@ -81,8 +81,8 @@ current prices on the [hardware page](./hardware.md)
 |  3   | [2 - Python Programming](./2-Unit2)  |     Python Code Challenges     |  [Unit 2 Lab 1](./2-Unit2/Unit2L1/README.md)  |
 |  4   | [2 - Python Programming](./2-Unit2)  |   Python Objects and Methods   |  [Unit 2 Lab 2](./2-Unit2/Unit2L2/README.md)  |
 |  4   | [2 - Python Programming](./2-Unit2)  |      Python File Handling      |  [Unit 2 Lab 3](./2-Unit2/Unit2L3/README.md)  |
-|  5   |    [3 - CircuitPython](./3-Unit3)    |     Intro to CircuitPython     |  [Unit 3 Lab 4](./3-Unit3/Unit2L4/README.md)  |
-|  6   |    [3 - CircuitPython](./3-Unit3)    |   Explore the Feather Sense    |  [Unit 3 Lab 5](./3-Unit3/Unit2L5/README.md)  |
+|  5   |    [3 - CircuitPython](./3-Unit3)    |     Intro to CircuitPython     |  [Unit 3 Lab 4](./3-Unit3/Unit3L4/README.md)  |
+|  6   |    [3 - CircuitPython](./3-Unit3)    |   Explore the Feather Sense    |  [Unit 3 Lab 5](./3-Unit3/Unit3L5/README.md)  |
 |  7   |  [4 - BLE Connectivity](./4-Unit4)   |          Intro to BLE          |  [Unit 4 Lab 6](./4-Unit4/Unit4L6/README.md)  |
 |  8   |  [4 - BLE Connectivity](./4-Unit4)   |        Explore more BLE        |  [Unit 4 Lab 7](./4-Unit4/Unit4L7/README.md)  |
 |  9   |  [4 - BLE Connectivity](./4-Unit4)   |   BLE with the MQTT Gateway    |  [Unit 4 Lab 8](./4-Unit4/Unit4L8/README.md)  |
