@@ -1,4 +1,4 @@
-#Unit 3 Lab 4 - Intro to CircuitPython
+# Unit 3 Lab 4 - Intro to CircuitPython
 
 Unit 3 Lab 4 introduces the students to the IoT hardware device and to CircuitPython (CP).  The pre-lab 
 prepares the students with some background on microcontroller devices and a brief history of the 
