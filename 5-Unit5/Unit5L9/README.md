@@ -1,12 +1,14 @@
-# Getting Started with IoT
+# Unit 5 Lab 9 - Intro to WiFi and HTTP
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 5 Lab 9 introduces students to WiFi connectivity and the HTTP communication protocol. Students 
+will connect the IoT device to a local access point for internet connectivity.  The creation of 
+a "secrets.py" file for storage of usernames and passwords is an important component to IoT security.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The Lab 9 pre-lab presents an introduction to both WiFi connectivity and the HTTP communication protocol.
 
-## Topics
+## Unit 5 Lab 9 Files
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+* Lab 9 Learning Targets
+* Lab 9 pre-lab slideshow
+* Lab 9 Hand out and solutions
+* Video - Lab 9

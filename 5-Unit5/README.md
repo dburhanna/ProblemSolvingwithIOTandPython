@@ -1,12 +1,19 @@
-# Unit 5
+# Unit 5 - WiFi Connectivity
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 5 will introduce students to WiFi connectivity for IoT devices. The Adafruit Feather Sense does 
+not have built-in WIFi hardware but by including the Airlift FeatherWing to the IoT device the capability 
+has been there, waiting to be used.  Before students can use WiFi in the labs, a few additional modules 
+must be added to the \verb+\lib+ folder on the Feather Sense.  Students will add these modules themselves 
+at the beginning of Lab 9.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+Teachers should prepare to distribute the following modules to students for use in Lab 9:
 
-## Topics
+* adafruit_esp32spi
+* adafruit_requests.mpy
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+## Unit 5 Labs
+
+0. [Unit 5 Lab 9 - Intro to WiFi and HTTP](Unit5L9/)
+1. [Unit 5 Lab 10 - WiFi with HTTP and Adafruit IO](Unit5L10/)
+2. [Unit 5 Lab 11 - WiFi with MQTT and Adafruit IO](Unit5L11/)
+3. [Unit 5 Lab 12 - More Adafruit IO Services](Unit5L12/)

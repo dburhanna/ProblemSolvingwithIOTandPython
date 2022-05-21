@@ -10,7 +10,7 @@ Teachers should prepare to distribute the following modules to students for use 
 * adafruit_ble
 * adafruit_ble_adafruit
 * adafruit_bluefruit_connect
-* 
+
 ## Unit 4 Labs
 
 6. [Unit 4 Lab 6 - Intro to BLE](Unit4L6/)
