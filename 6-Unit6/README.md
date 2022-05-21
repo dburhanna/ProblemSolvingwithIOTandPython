@@ -1,12 +1,23 @@
-# Unit 6
+# Unit 6 - Final Project
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+I believe it is important to give students a chance to explore and apply new skills and knowledge
+in a way that they feel is important or relevant.  Teachers should schedule time at the end of the
+semester for students to work on a "Final Project" of their own choosing.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The previous labs in the curriculum have exposed students to a variety of connectivity types
+and a variety of communication protocols.  Challenge students to use their creativity to come
+up with a meaningful project.
 
-## Topics
+Purchasing a variety of extra FeatherWings opens up many other IoT device possibilities for
+the students to explore.  The Final Project pre-lab should give students lots of possibilities
+to consider.
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+## Unit 6 Final Project
+
+* Final Project Learning Targets
+* Final Project pre-lab slideshow
+* Final Project Guidelines
+* Final Project Grading Rubric
+* Final Project Daily Log
+* Final Project Proposal Form
+* Final Project Summary Form
