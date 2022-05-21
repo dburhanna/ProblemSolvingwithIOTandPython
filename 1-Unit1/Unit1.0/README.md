@@ -5,11 +5,8 @@ Things and Python for this problem solving curriculum.
 
 ![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
 
-## Unit 1 Lessons
+## Unit 1.0 Files
 
-1. [Course Introduction](Unit1.0/README.md)
-1. [What is IoT](Unit1.1/README.md)
-1. [IoT Connectivity](Unit1.2/README.md)
-1. [IoT Communication Protocols](Unit1.3/README.md)
-1. [IoT Services](Unit1.4/README.md)
-1. [IoT Security](Unit1.4/README.md)
+* Unit 1 - 1.0 PowerPoint slides
+* slidesUnit1.0.pdf - pdf of slides
+* Unit1-0 Learning Targets.pdf
