@@ -7,9 +7,9 @@ and will learn about the motivations  behind choosing the Internet of Things and
 
 ## Unit 1 Lessons
 
-1. [Course Introduction](Unit1.0/README.md)
-1. [What is IoT](Unit1.1/README.md)
-1. [IoT Connectivity](Unit1.2/README.md)
+1. [Course Introduction](Unit1.0/)
+1. [What is IoT](Unit1.1/)
+1. [IoT Connectivity](Unit1.2/)
 1. [IoT Communication Protocols](Unit1.3/README.md)
 1. [IoT Services](Unit1.4/README.md)
 1. [IoT Security](Unit1.4/README.md)
