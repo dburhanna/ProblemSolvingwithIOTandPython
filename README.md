@@ -62,7 +62,7 @@ current prices on the [hardware page](./hardware.md)
 ## Each unit includes:
 
 - Clearly defined learning targets
-- Powerpoint slides
+- PowerPoint slides
 - For lab-based lessons, step-by-step lab guides (and solutions) 
 - Teach the teacher videos
 
