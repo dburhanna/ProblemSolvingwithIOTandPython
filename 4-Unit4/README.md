@@ -1,12 +1,18 @@
-# Unit 4
+# Unit 4 - BLE Connectivity
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 4 will introduce students to Bluetooth Low Energy (BLE) connectivity for IoT devices. 
+The Adafruit Feather Sense has BLE hardware built-in.  Before students can use BLE in the labs, 
+a few additional modules must be added to the \lib folder on the Feather Sense.  Students 
+will add these modules themselves at the beginning of Lab 6.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+Teachers should prepare to distribute the following modules to students for use in Lab 6:
 
-## Topics
+* adafruit_ble
+* adafruit_ble_adafruit
+* adafruit_bluefruit_connect
+* 
+## Unit 4 Labs
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+6. [Unit 4 Lab 6 - Intro to BLE](Unit4L6/)
+7. [Unit 4 Lab 7 - Explore more BLE](Unit4L7/)
+8. [Unit 4 Lab 8 - BLE with the MQTT Gateway](Unit4L8/)

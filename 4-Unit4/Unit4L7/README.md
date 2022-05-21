@@ -1,12 +1,17 @@
-# Getting Started with IoT
+# Unit 4 Lab 7 - Explore more BLE
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 4 Lab 7 continues to expose the students to BLE connectivity.  In Lab 6 students used predefined 
+communication standards so the IoT device understood the connected appplication.  In Lab 7 they will 
+create custom commands using a more general UART standard.  They will then connect the IoT device to a 
+computer with BLE.  Most Apple based computers have built-in BLE but if your desktop computer does not, 
+I found the following USB - BLE dongles to work very well for Windows based machines: 
+https://www.amazon.com/gp/product/B071X46MT2/ .
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The Lab 7 pre-lab presents concepts of BLE security and BLE power consumption.
 
-## Topics
+## Unit 4 Lab 7 Files
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+* Lab 7 Learning Targets
+* Lab 7 pre-lab slideshow
+* Lab 7 Hand out and solutions
+* Video - Lab 7

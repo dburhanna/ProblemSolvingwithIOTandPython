@@ -1,12 +1,15 @@
-# Getting Started with IoT
+# Unit 4 Lab 8 - BLE with the MQTT Gateway
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 4 Lab 8 exposes the students to the MQTT communication protocol. Students will also experience 
+the Adafruit IO Internet of Things service for the first time.  Students will connect their IoT 
+devices via BLE to the cellphone application and then use the cellphone as an MQTT gateway to the Internet.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The Lab 8 pre-lab presents an important introduction to MQTT concepts and terminology.  Teachers should 
+familiarize themselves with Adafruit IO and the creation of free user accounts prior to the Lab 8 pre-lab.
 
-## Topics
+## Unit 4 Lab 8 Files
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+* Lab 8 Learning Targets
+* Lab 8 pre-lab slideshow
+* Lab 8 Hand out and solutions
+* Video - Lab 8
