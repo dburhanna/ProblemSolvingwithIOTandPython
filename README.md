@@ -44,8 +44,8 @@ engage the class.  Python is one of the most popular programming languages and d
 syntax than other languages typically used for IoT such as Arduino, C or C++.  Even if your students do not have 
 prior experience with Python, the course contains a unit of Python review as the development environment is introduced 
 to the students.  You can choose to spend as much or as little time as necessary in this unit.  There are many Python 
-curriculums available already for the teacher that plans on using this course as it was originally designed. 
-
+curriculums available already for the teacher that plans on using this course as it was originally designed.
+The IoT devices will be programmed in a variant of Python called [CircuitPython](https://www.circuitpython.org/).
 ### Hardware 
 
 When it comes to adding some real-world experiences for your students, you need to use real-world devices.  
@@ -53,22 +53,18 @@ This can be an intimidating and time-consuming process even for an experienced e
 "thing" you want to use for IoT is not an easy task since there are many possibilities today.  
 **I looked for a low-cost "thing' that could be programmed with Python.** 
 Thankfully, [Adafruit Industries](https://www.adafruit.com/) has been leading the way by developing small, 
-low-cost microcontroller boards that can be programmed with [CircuitPython](https://circuitpython.org/), 
-a variant of Python.  I know much of this "hardware" stuff may be completely foreign to many teachers.  
+low-cost microcontroller boards that can be programmed with [CircuitPython](https://circuitpython.org/).  
+I know much of this "hardware" stuff may be completely foreign to many teachers.  
 My curriculum should provide all you need to feel comfortable working with microcontrollers and helping your 
 students understand the IoT concepts.  You can read more about the hardware chosen and check on 
 current prices on the [hardware page](./hardware.md)
 
 ## Each unit includes:
 
-- clearly defined learning objectives
-- written lesson plans
-- for lab-based lessons, a step-by-step lab guide 
-- assignments
-- knowledge checks
-- supplemental reading and video links
-- quick quizzes
-- a unit challenge
+- Clearly defined learning targets
+- Powerpoint slides
+- For lab-based lessons, step-by-step lab guides (and solutions) 
+- Teach the teacher videos
 
 
 ## Lessons
@@ -109,4 +105,3 @@ npm run convert
 
 **Teachers**, I have [included some suggestions](for-teachers.md) on how to get started using the curriculum. 
 
-If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
