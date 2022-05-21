@@ -1,12 +1,21 @@
-# Unit 1.0
+# Unit 1.5
 
-Unit 1.0 is a basic introduction to the curriculum and some motivations for choosing the Internet of 
-Things and Python for this problem solving curriculum.
+Unit 1.5 discusses IoT Security. The importance of IoT Security is discussed as well as some common 
+security risks. Common attack methods are also highlighted.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The following key points  about IoT security are discussed:
 
-## Unit 1.0 Files
+* Assume someone will try to hack your IoT system.
+* Design with security in mind from the beginning.
+* Create a plan just in case your IoT devices are compromised.
 
-* Unit 1 - 1.0 PowerPoint slides
-* slidesUnit1.0.pdf - pdf of slides
-* Unit1-0 Learning Targets.pdf
+
+While IoT security is not examined in great detail within this curriculum, key concepts such
+as password protection with good passwords are highlighted when connecting the Adafruit 
+Feather device to the internet.
+
+## Unit 1.5 Files
+
+* Unit 1 - 1.5 PowerPoint slides
+* slidesUnit1.5.pdf - pdf of slides
+* Unit1-5 Learning Targets.pdf

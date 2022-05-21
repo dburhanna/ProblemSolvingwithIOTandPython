@@ -1,12 +1,23 @@
-# Unit 1.0
+# Unit 1.2
 
-Unit 1.0 is a basic introduction to the curriculum and some motivations for choosing the Internet of 
-Things and Python for this problem solving curriculum.
+Unit 1.2 discusses IoT Connectivity.  An IoT device is not very useful if it can not connect in 
+someway to the internet. The device may not be connected at all times, but at some point the d
+evice will need to connect to send and receive data or commands.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The following common connectivity types of IoT systems are presented:
 
-## Unit 1.0 Files
+* Ethernet
+* WiFi
+* BLE
+* Cellular
+* Zigbee
+* LoRa
 
-* Unit 1 - 1.0 PowerPoint slides
-* slidesUnit1.0.pdf - pdf of slides
-* Unit1-0 Learning Targets.pdf
+The curriculum labs will explore both BLE and WiFi connectivity using the Adafruit Feather 
+Sense hardware device.
+
+## Unit 1.2 Files
+
+* Unit 1 - 1.2 PowerPoint slides
+* slidesUnit1.2.pdf - pdf of slides
+* Unit1-2 Learning Targets.pdf

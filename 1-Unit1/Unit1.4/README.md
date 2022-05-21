@@ -1,12 +1,24 @@
-# Unit 1.0
+# Unit 1.4
 
-Unit 1.0 is a basic introduction to the curriculum and some motivations for choosing the Internet of 
-Things and Python for this problem solving curriculum.
+Unit 1.4 discusses IoT Services. IoT “Services” are the software packages you use to help make your 
+IoT device truly useful.  An IoT service could be an online application, or it could be custom 
+software that you write yourself to help store or visualize data from your IoT device.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+The following IoT services are discussed:
 
-## Unit 1.0 Files
+* Store and/or Retrieve Data
+* Process device data
+* Visualize Data
+* Coordinate communication between devices
+* Allow IoT device configuration
+* Provide a User Interface for technician access
+* Allow the device to communicate with non IoT websites
 
-* Unit 1 - 1.0 PowerPoint slides
-* slidesUnit1.0.pdf - pdf of slides
-* Unit1-0 Learning Targets.pdf
+The curriculum labs will explore custom IoT services and online IoT services.  
+In particular the services provided by  free accounts at Adafruit IO will be used.
+
+## Unit 1.4 Files
+
+* Unit 1 - 1.4 PowerPoint slides
+* slidesUnit1.4.pdf - pdf of slides
+* Unit1-4 Learning Targets.pdf
