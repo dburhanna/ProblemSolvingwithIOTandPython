@@ -1,10 +1,10 @@
 # Unit 5 - WiFi Connectivity
 
 Unit 5 will introduce students to WiFi connectivity for IoT devices. The Adafruit Feather Sense does 
-not have built-in WIFi hardware but by including the Airlift FeatherWing to the IoT device the capability 
-has been there, waiting to be used.  Before students can use WiFi in the labs, a few additional modules 
-must be added to the \verb+\lib+ folder on the Feather Sense.  Students will add these modules themselves 
-at the beginning of Lab 9.
+not have built-in WIFi hardware but by attaching the Airlift FeatherWing to the Adafruit Feather Sense 
+device the capability has been there, waiting to be used.  Before students can use WiFi in the labs, 
+a few additional modules must be added to the \lib folder on the Feather Sense.  Students will 
+add these modules themselves at the beginning of Lab 9.
 
 Teachers should prepare to distribute the following modules to students for use in Lab 9:
 
