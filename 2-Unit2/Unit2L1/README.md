@@ -1,4 +1,4 @@
-# Unit 2 Lab 1
+# Unit 2 Lab 1 - Python Code Challenges
 
 Unit 2 Lab 1 presents the students with some Python coding challenges as a refresher to the 
 six basic programming abilities:

@@ -1,4 +1,4 @@
-# Unit 2 Lab 0
+# Unit 2 Lab 0 - Intro to the Mu IDE and REPL
 
 Unit 2 Lab 0 introduces the student to the Mu Integrated Development Environment (IDE)
 and the Python Read Evaluate Print Loop (REPL).  The Mu editor was written specifically 

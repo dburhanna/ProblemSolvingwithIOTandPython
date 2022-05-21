@@ -1,4 +1,4 @@
-# Unit 2 Lab 3
+# Unit 2 Lab 3 - Python File Handling
 
 Unit 2 Lab 3 introduces the students to Python file handling.  In Python, files are objects, 
 so this lab is a great follow-up to Lab 2.  Lab 3 should reinforce the concepts of Object Oriented 

@@ -1,4 +1,4 @@
-# Unit 2
+# Unit 2 - Python Programming
 
 Unit 2 provides a quick review of some key concepts of the Python programming language that I feel 
 are key to working with this curriculum.  This unit is not meant to be a complete introduction 

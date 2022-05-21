@@ -1,4 +1,4 @@
-# Unit 2 Lab 2
+# Unit 2 Lab 2 - Python Objects and Methods
 
 Unit 2 Lab 2 introduces the students to the concept of Object-Oriented Programming (OOP).  Python 
 is object oriented through and through but most course teaching Python do not present 

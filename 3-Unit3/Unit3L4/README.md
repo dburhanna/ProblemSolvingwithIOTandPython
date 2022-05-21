@@ -1,12 +1,23 @@
-# Getting Started with IoT
+#Unit 3 Lab 4 - Intro to CircuitPython
 
-In this section of the curriculum, you will be introduced to the Internet of Things, and learn the basic concepts including building your first 'Hello World' IoT project connecting to the cloud. This project is a nightlight that lights up as light levels measured by a sensor drop.
+Unit 3 Lab 4 introduces the students to the IoT hardware device and to CircuitPython (CP).  The pre-lab 
+prepares the students with some background on microcontroller devices and a brief history of the 
+development of CircuitPython.
 
-![The LED connected to the WIO turning on and off as the light level changes](../images/wio-running-assignment-1-1.gif)
+In Lab 4 students are exposed to the CP Read Evaluate Print Loop(REPL). They should understand the 
+CP REPL works like a REPL for regular Python with the same basic functionality.  Students will 
+import modules into the REPL, create objects and then use the objects to control hardware components 
+on the Feather Sense.  Students will work with a few "output" possibilities available on the Feather Sense.
 
-## Topics
+Lab 4 will again emphasize the following steps:
 
-1. [Introduction to IoT](lessons/1-introduction-to-iot/README.md)
-1. [A deeper dive into IoT](lessons/2-deeper-dive/README.md)
-1. [Interact with the physical world with sensors and actuators](lessons/3-sensors-and-actuators/README.md)
-1. [Connect your device to the Internet](lessons/4-connect-internet/README.md)
+1. import a CP module
+2. create a new object
+3. use methods and attributes of the new object to get stuff done
+
+## Unit 3 Lab 4 Files
+
+* Lab 4 Learning Targets
+* Lab 4 pre-lab slideshow
+* Lab 4 Hand out and solutions
+* Video - Lab 4
