@@ -63,45 +63,33 @@ current prices on the [hardware page](./hardware.md)
 
 - Clearly defined learning targets
 - PowerPoint slides
-- For lab-based lessons, step-by-step lab guides (and solutions) 
+- Step-by-step lab guides (and solutions) 
 - Teach the teacher videos
 
 
-## Lessons
+## Possible pacing guidelines
 
-| Week |                   Unit                    |        Topics        | Learning Objectives                                                              |                            Linked Lessons                            |
-|:----:|:-----------------------------------------:|:--------------------:|----------------------------------------------------------------------------------|:--------------------------------------------------------------------:|
-|  1   |       [1 - Intro to IoT](./1-Unit1)       |     What is IoT?     | Learn the basic principles of IoT and the basic building blocks of IoT solutions |    [Welcome to IoT](./1-Unit1/lessons/1-welcome-to-iot/README.md)    |
-|  1   |       [1 - Intro to IoT](./1-Unit1)       | IoT is all around us | Learn more about the components of an IoT system,                                | [IoT is all around us](./1-Unit1/lessons/2-iot-all-around/README.md) |
-|  2   |       [1 - Intro to IoT](./1-Unit1)       | Even more about IoT  | Learn about sensors to                                                           |    [Even more about IoT](./1-Unit1/lessons/3-more-iot/README.md)     |
-|  2   |    [2 - Python Programming](./2-Unit2)    |        Python        | Learn about how to                                                               |           [Python 1](./2-Unit2/lessons/1-python/README.md)           |
-|  3   |    [2 - Python Programming](./2-Unit2)    |        Python        | Learn how to predict                                                             |           [Python 2](./2-Unit2/lessons/2-python/README.md)           |
-|  3   |    [2 - Python Programming](./2-Unit2)    |        Python        | Learn how to detect                                                              |           [Python 3](./2-Unit2/lessons/3-python/README.md)           |
-|  4   | [3 - Get to know your "Thing"](./3-Unit3) |    CP and Feather    | Learn how to automate                                                            |     [CP and Feather 1](./3-Unit3/lessons/1-cp-feather/README.md)     |
-|  5   | [3 - Get to know your "Thing"](./3-Unit3) |    CP and Feather    | Learn about the cloud                                                            |     [CP and Feather 2](./3-Unit3/lessons/2-cp-feather/README.md)     |
-|  6   | [3 - Get to know your "Thing"](./3-Unit3) |    CP and Feather    | Learn about how you c                                                            |     [CP and Feather 3](./3-Unit3/lessons/3-cp-feather/README.md)     |
-|  7   |       [4 - IoT with BLE](./4-Unit4)       |         BLE          | Learn about security with IoT                                                    |              [BLE 1](./4-Unit4/lessons/1-ble/README.md)              |
-|  8   |       [4 - IoT with BLE](./4-Unit4)       |         BLE          | Learn about GPS location                                                         |              [BLE 2](./4-Unit4/lessons/2-ble/README.md)              |
-|  9   |       [4 - IoT with BLE](./4-Unit4)       |         BLE          | Learn how to store IoT data                                                      |              [BLE 3](./4-Unit4/lessons/3-ble/README.md)              |
-|  10  |      [5 - IoT with WiFi](./5-Unit5)       |         WiFi         | Learn about visualizing location                                                 |             [WiFi 1](./5-Unit5/lessons/1-wifi/README.md)             |
-|  11  |      [5 - IoT with WiFi](./5-Unit5)       |         WiFi         | Learn about geofences, and                                                       |             [WiFi 2](./5-Unit5/lessons/2-wifi/README.md)             |
-|  12  |      [5 - IoT with WiFi](./5-Unit5)       |         WiFi         | Learn about geofences, and                                                       |             [WiFi 3](./5-Unit5/lessons/3-wifi/README.md)             |
-|  13  |      [5 - IoT with WiFi](./5-Unit5)       |         WiFi         | Learn about using your                                                           |             [WiFi 4](./5-Unit5/lessons/4-wifi/README.md)             |
-|  14  |      [6 - IoT Analytics](./6-Unit6)       |         data         | Learn about running                                                              |       [IoT Analytics](./6-Unit6/lessons/1-analytics/README.md)       |
-|  15  |    [7 - IoT Final Project](./7-Unit7)     |    Final Project     | Learn how to use                                                                 |     [Final Project](./7-Unit7/lessons/1-final-project/README.md)     |
-
-## Offline access
-
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
-
-### PDF
-
-You can generate a PDF of this content for offline access if needed. To do this, make sure you have [npm installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) and run the following commands in the root folder of this repo:
-
-```sh
-npm i
-npm run convert
-```
-
-**Teachers**, I have [included some suggestions](for-teachers.md) on how to get started using the curriculum. 
+| Week |                 Unit                 |             Topics             | Learning Objectives                                                              |                            Linked Lessons                            |
+|:----:|:------------------------------------:|:------------------------------:|----------------------------------------------------------------------------------|:--------------------------------------------------------------------:|
+|  1   | [1 - Introduction to IoT](./1-Unit1) |      Course Introduction       | Learn the basic principles of IoT and the basic building blocks of IoT solutions |    [Welcome to IoT](./1-Unit1/lessons/1-welcome-to-iot/README.md)    |
+|  1   | [1 - Introduction to IoT](./1-Unit1) |          What is IoT?          | Learn more about the components of an IoT system,                                | [IoT is all around us](./1-Unit1/lessons/2-iot-all-around/README.md) |
+|  1   | [1 - Introduction to IoT](./1-Unit1) |        IoT Connectivity        | Learn about sensors to                                                           |    [Even more about IoT](./1-Unit1/lessons/3-more-iot/README.md)     |
+|  2   | [1 - Introduction to IoT](./1-Unit1) |  IoT Communication Protocols   | Learn the basic principles of IoT and the basic building blocks of IoT solutions |    [Welcome to IoT](./1-Unit1/lessons/1-welcome-to-iot/README.md)    |
+|  2   | [1 - Introduction to IoT](./1-Unit1) |          IoT Services          | Learn more about the components of an IoT system,                                | [IoT is all around us](./1-Unit1/lessons/2-iot-all-around/README.md) |
+|  2   | [1 - Introduction to IoT](./1-Unit1) |          IoT Security          | Learn about sensors to                                                           |    [Even more about IoT](./1-Unit1/lessons/3-more-iot/README.md)     |
+|  3   | [2 - Python Programming](./2-Unit2)  |  Intro to the Mu IDE and REPL  | Learn about how to                                                               |           [Python 1](./2-Unit2/lessons/1-python/README.md)           |
+|  3   | [2 - Python Programming](./2-Unit2)  |     Python Code Challenges     | Learn how to predict                                                             |           [Python 2](./2-Unit2/lessons/2-python/README.md)           |
+|  4   | [2 - Python Programming](./2-Unit2)  |   Python Objects and Methods   | Learn about how to                                                               |           [Python 1](./2-Unit2/lessons/1-python/README.md)           |
+|  4   | [2 - Python Programming](./2-Unit2)  |      Python File Handling      | Learn how to predict                                                             |           [Python 2](./2-Unit2/lessons/2-python/README.md)           |
+|  5   |    [3 - CircuitPython](./3-Unit3)    |     Intro to CircuitPython     | Learn how to detect                                                              |           [Python 3](./2-Unit2/lessons/3-python/README.md)           |
+|  6   |    [3 - CircuitPython](./3-Unit3)    |   Explore the Feather Sense    | Learn about the cloud                                                            |     [CP and Feather 2](./3-Unit3/lessons/2-cp-feather/README.md)     |
+|  7   |  [4 - BLE Connectivity](./4-Unit4)   |          Intro to BLE          | Learn about security with IoT                                                    |              [BLE 1](./4-Unit4/lessons/1-ble/README.md)              |
+|  8   |  [4 - BLE Connectivity](./4-Unit4)   |        Explore more BLE        | Learn about GPS location                                                         |              [BLE 2](./4-Unit4/lessons/2-ble/README.md)              |
+|  9   |  [4 - BLE Connectivity](./4-Unit4)   |   BLE with the MQTT Gateway    | Learn how to store IoT data                                                      |              [BLE 3](./4-Unit4/lessons/3-ble/README.md)              |
+|  10  |  [5 - WiFi Connectivity](./5-Unit5)  |     Intro to WiFi and HTTP     | Learn about visualizing location                                                 |             [WiFi 1](./5-Unit5/lessons/1-wifi/README.md)             |
+|  11  |  [5 - WiFi Connectivity](./5-Unit5)  | WiFi with HTTP and Adafruit IO | Learn about geofences, and                                                       |             [WiFi 2](./5-Unit5/lessons/2-wifi/README.md)             |
+|  12  |  [5 - WiFi Connectivity](./5-Unit5)  | WiFi with MQTT and Adafruit IO | Learn about geofences, and                                                       |             [WiFi 3](./5-Unit5/lessons/3-wifi/README.md)             |
+|  13  |  [5 - WiFi Connectivity](./5-Unit5)  |   More Adafruit IO Services    | Learn about using your                                                           |             [WiFi 4](./5-Unit5/lessons/4-wifi/README.md)             |
+|  14  |  [6 - IoT Final Project](./6-Unit6)  |         Final Project          | Learn about running                                                              |       [IoT Analytics](./6-Unit6/lessons/1-analytics/README.md)       |
+|  15  |  [6 - IoT Final Project](./6-Unit6)  |         Final Project          | Learn how to use                                                                 |     [Final Project](./7-Unit7/lessons/1-final-project/README.md)     |
 

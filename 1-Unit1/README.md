@@ -1,4 +1,4 @@
-# Unit 1
+# Unit 1 - Introduction to IoT
 
 In this section of the curriculum, students will be introduced to the Internet of Things.  They will learn the basic concepts of IoT devices 
 and will learn about the motivations  behind choosing the Internet of Things and Python.
