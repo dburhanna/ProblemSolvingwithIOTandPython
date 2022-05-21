@@ -13,7 +13,7 @@ Teachers should prepare to distribute the following modules to students for use 
 
 ## Unit 5 Labs
 
-0. [Unit 5 Lab 9 - Intro to WiFi and HTTP](Unit5L9/)
-1. [Unit 5 Lab 10 - WiFi with HTTP and Adafruit IO](Unit5L10/)
-2. [Unit 5 Lab 11 - WiFi with MQTT and Adafruit IO](Unit5L11/)
-3. [Unit 5 Lab 12 - More Adafruit IO Services](Unit5L12/)
+9. [Unit 5 Lab 9 - Intro to WiFi and HTTP](Unit5L9/)
+10. [Unit 5 Lab 10 - WiFi with HTTP and Adafruit IO](Unit5L10/)
+11. [Unit 5 Lab 11 - WiFi with MQTT and Adafruit IO](Unit5L11/)
+12. [Unit 5 Lab 12 - More Adafruit IO Services](Unit5L12/)
