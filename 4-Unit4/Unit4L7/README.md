@@ -14,4 +14,4 @@ The Lab 7 pre-lab presents concepts of BLE security and BLE power consumption.
 * Lab 7 Learning Targets
 * Lab 7 pre-lab slideshow
 * Lab 7 Hand out and solutions
-* Video - Lab 7
+* [Videos](./Videos4L7.md) - Lab 7

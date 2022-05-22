@@ -11,4 +11,4 @@ The Lab 9 pre-lab presents an introduction to both WiFi connectivity and the HTT
 * Lab 9 Learning Targets
 * Lab 9 pre-lab slideshow
 * Lab 9 Hand out and solutions
-* Video - Lab 9
+* [Videos](./Videos5L9.md) - Lab 9

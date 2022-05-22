@@ -12,4 +12,4 @@ familiarize themselves with Adafruit IO and the creation of free user accounts p
 * Lab 8 Learning Targets
 * Lab 8 pre-lab slideshow
 * Lab 8 Hand out and solutions
-* Video - Lab 8
+* [Videos](./Videos4L8.md) - Lab 8

@@ -9,4 +9,4 @@ information to their "secrets.py" file for access to their Adafruit IO accounts.
 * Lab 10 Learning Targets
 * Lab 10 pre-lab slideshow
 * Lab 10 Hand out and solutions
-* Video - Lab 10
+* [Videos](./Videos5L10.md) - Lab 10

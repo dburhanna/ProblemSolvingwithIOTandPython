@@ -10,4 +10,4 @@ connected cellphone application.
 * Lab 6 Learning Targets
 * Lab 6 pre-lab slideshow
 * Lab 6 Hand out and solutions
-* Video - Lab 6
+* [Videos](./Videos4L6.md) - Lab 6

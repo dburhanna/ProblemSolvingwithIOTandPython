@@ -8,4 +8,4 @@ and integrations Adafruit IO allows them to access easily.
 * Lab 12 Learning Targets
 * Lab 12 pre-lab slideshow
 * Lab 12 Hand out and solutions
-* Video - Lab 12
+* [Videos](./Videos5L12.md) - Lab 12

@@ -9,4 +9,4 @@ how HTTP communication differs from MQTT communication.
 * Lab 11 Learning Targets
 * Lab 11 pre-lab slideshow
 * Lab 11 Hand out and solutions
-* Video - Lab 11
+* [Videos](./Videos5L11.md) - Lab 11
