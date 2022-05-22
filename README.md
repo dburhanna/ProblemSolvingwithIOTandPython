@@ -21,6 +21,8 @@ While I do believe teaching a class of students in a group setting is advantageo
 ideas off each other and will generally have more fun, this curriculum can also be used by the motivated individual 
 student.
 
+[![Introduction Video](https://img.youtube.com/vi/2C8iAqcNIfA/default.jpg)](https://youtu.be/2C8iAqcNIfA)
+
 ## Course Structure and Pedagogy
 
 This curriculum is broken down into 6 units designed to be taught over an entire 15-week semester.  
