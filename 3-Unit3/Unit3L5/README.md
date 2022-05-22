@@ -10,4 +10,4 @@ connect each of the modules with the specific hardware on the Feather Sense devi
 * Lab 5 Learning Targets
 * Lab 5 pre-lab slideshow
 * Lab 5 Hand out and solutions
-* Video - Lab 5
+* [Videos](./Videos3L5.md) - Lab 5

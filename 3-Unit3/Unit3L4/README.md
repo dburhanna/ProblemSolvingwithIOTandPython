@@ -20,4 +20,4 @@ Lab 4 will again emphasize the following steps:
 * Lab 4 Learning Targets
 * Lab 4 pre-lab slideshow
 * Lab 4 Hand out and solutions
-* Video - Lab 4
+* [Videos](./Videos3L4.md) - Lab 4
