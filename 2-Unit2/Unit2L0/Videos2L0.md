@@ -2,10 +2,7 @@
 
 ### Intro to the Mu IDE video
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/VUtwTGILvWs/default.jpg)](https://youtu.be/VUtwTGILvWs)
-
-(http://i.imgur.com/Ot5DWAW.pnghttps://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-<video src='' width=180/></video>
+[![Intro to Mu IDE](https://img.youtube.com/vi/VUtwTGILvWs/default.jpg)](https://youtu.be/VUtwTGILvWs)
 
 
 ### Intro to the Python REPL video
