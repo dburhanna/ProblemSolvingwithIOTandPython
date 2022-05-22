@@ -10,4 +10,4 @@ store some data to a file.  This is a step towards a future custom IoT service.
 * Lab 3 Learning Targets
 * Lab 3 pre-lab slideshow
 * Lab 3 Hand out and solutions
-* Video - Lab 3
+* [Video](./Videos2L3.md) - Lab 3

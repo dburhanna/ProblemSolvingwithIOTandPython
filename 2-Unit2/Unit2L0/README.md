@@ -16,4 +16,4 @@ familiarizing them with the computers Mu is running on, safety rules, etc.
 * Lab 0 Learning Targets
 * Lab 0 pre-lab slideshow
 * Lab 0 Hand out and solutions
-* Videos - Intro to the Mu IDE, Intro to the Python REPL in Mu
+*  [Videos](./Videos2L0.md) - Intro to the Mu IDE, Intro to the Python REPL in Mu

@@ -20,4 +20,4 @@ Lab 2 aims to help the students recognize the following steps:
 * Lab 2 Learning Targets
 * Lab 2 pre-lab slideshow
 * Lab 2 Hand out and solutions
-* Video - Lab 2
+* [Video](./Videos2L2.md) - Lab 2

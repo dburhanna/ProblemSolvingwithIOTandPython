@@ -22,4 +22,4 @@ Lab 1 also focuses on the common Python data structures which the students will 
 * Lab 1 Learning Targets
 * Lab 1 pre-lab slideshow
 * Lab 1 Hand out and solutions
-* Video - Lab 1
+* [Video](./Videos2L1.md) - Lab 1
