@@ -2,7 +2,7 @@
 
 ### Intro to the Mu IDE video
 
-<video src='https://youtu.be/VUtwTGILvWs' width=180/>
+<video src='https://youtu.be/VUtwTGILvWs' width=180/></video>
 
 
 ### Intro to the Python REPL video
