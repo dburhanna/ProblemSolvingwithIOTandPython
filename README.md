@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/dburhanna/test)](LICENSE)
 
 
-# Problem Solving with the Internet of Things and Python
+#<span style="color: blue;"> Problem Solving with the Internet of Things and Python
 
 ## A Curriculum
 
