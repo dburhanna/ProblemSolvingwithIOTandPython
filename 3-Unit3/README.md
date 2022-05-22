@@ -63,10 +63,10 @@ printed by locally sourced suppliers.
 The following additional video resources are provided to help the teacher prepare the Feather 
 Sense and FeatherWing hardware for all future labs:
 
-* Video - Feather and FeatherWing Assembly
-* Video - Soldering tips
-* Video - Updating CircuitPython on the Feather Sense
-* Video - Updating CircuitPython libraries on the Feather Sense
+* Video - [Feather and FeatherWing Assembly](./Videos3-Feather.md)
+* Video - [Soldering tips](./Videos3-Solder.md)
+* Video - [Updating CircuitPython on the Feather Sense](./Videos3-CP.md)
+* Video - [Updating CircuitPython libraries on the Feather Sense](./Videos3-Libs.md)
 
 ## Unit 3 Labs
 
