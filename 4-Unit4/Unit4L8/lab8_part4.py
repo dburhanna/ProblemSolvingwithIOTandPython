@@ -33,8 +33,8 @@ while True:
             command = uart.readline().decode("utf-8")
             print(command)
             if "PAUSE" in command:
-                print("Over limit, pausing for 1 minute...")
-                for i in range(30):
+                print("Over limit, pausing for 30 seconds...")
+                for i in range(15):
                     led.value = 1
                     time.sleep(1)
                     led.value = 0

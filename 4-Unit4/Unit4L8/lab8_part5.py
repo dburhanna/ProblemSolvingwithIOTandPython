@@ -17,7 +17,7 @@ led.direction = digitalio.Direction.OUTPUT
 led.value = False # make sure RED_LED is off
 
 # starting value for delay between streamed data points
-delay = 15
+delay = 10
 
 while True:
     ble.start_advertising(advertisement)
@@ -33,8 +33,8 @@ while True:
             command = uart.readline().decode("utf-8")
             print(command)
             if "PAUSE" in command:
-                print("Over limit, pausing for 1 minute...")
-                for i in range(30):
+                print("Over limit, pausing for 20 seconds...")
+                for i in range(10):
                     led.value = 1
                     time.sleep(1)
                     led.value = 0
@@ -54,7 +54,7 @@ while True:
                 print("Sampling slower. Current delay = {}".format(delay))
 
         else:
-            x = str(random.randrange(25,50))
+            x = str(random.randrange(25,55))
             uart.write(x)
             print(x)
             time.sleep(delay)

@@ -1,3 +1,10 @@
+"""
+Filename:
+Author(s):
+Date:
+Description:
+"""
+
 # given strings
 capitals = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowers = "abcdefghijklmnopqrstuvwxyz"
@@ -58,9 +65,9 @@ print("Contains: {} capitals letters".format(count_caps(user_string)))
 
 #test password_checker with one of the following
 
-user_password="CheeseBurger*12"
+#user_password="CheeseBurger*12"
 
-#user_password=input("Enter a password to be checked: ")
+user_password=input("\nEnter a password to be checked: ")
 
 if password_checker(user_password):
     print("Password tested is STRONG")
