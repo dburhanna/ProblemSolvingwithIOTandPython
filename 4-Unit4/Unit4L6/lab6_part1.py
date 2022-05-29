@@ -33,6 +33,7 @@ for advertisement in ble.start_scan():
     print("\t" + repr(advertisement))
     print()
 
+
 print("scan done")
 
 
